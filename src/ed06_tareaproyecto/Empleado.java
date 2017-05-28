@@ -108,6 +108,7 @@ public class Empleado {
 
     /**
      * @return función que devuelve el valor de cargo
+     * realizams prueba para comprobar git
      */
     public String getCargo() {
         return cargo;
